@@ -6,6 +6,9 @@ stable-with-emr-serverless
 # step 1: Download test data and jar files and upload then into folder /jar and test/ into S3
 Link: https://drive.google.com/drive/folders/1mQzZSVgxQGksoXkYGb8DSn2jeR48VehS?usp=share_link
 
+
+![image](https://github.com/soumilshah1995/stable-with-emr-serverless/assets/39345855/eff90463-3970-45bc-8c29-1d0b9660a836)
+
 # Step 2: Create EMR Spark Cluster 
 
 ![image](https://github.com/soumilshah1995/stable-with-emr-serverless/assets/39345855/8b042c5a-2e15-434e-865b-47ad57f13615)
