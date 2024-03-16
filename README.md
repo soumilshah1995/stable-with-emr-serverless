@@ -1,4 +1,4 @@
-# stable-with-emr-serverless
+# Xtable-with-emr-serverless
 Xtable-with-emr-serverless
 
 ![Screenshot 2024-03-15 at 11 43 22 AM](https://github.com/soumilshah1995/stable-with-emr-serverless/assets/39345855/00341603-e6d5-4c98-a7b9-d61d9e0e4d02)
